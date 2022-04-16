@@ -24,3 +24,9 @@
 shared preferences), architecture pattern MVVM .
 
 <hr>
+
+<h4 align="left">TECH-SHOP APP</h4>
+
+- E-Commerce App for Electric Products using libraries (Getx, , State Management
+Bloc , Google Maps , Dio , Shared Preferences, Third Party), architecture pattern
+MVVM and I used API .
