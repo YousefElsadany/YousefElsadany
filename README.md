@@ -18,8 +18,9 @@
 <h3 align="left">Samples from my projects</h3>
 
 <h4 align="left">SOCIAL-MEDIA APP</h4>
-<hr>
+
 - A Social Media application with chat to communication with others .
 - In this application I have used the libraries (Firebase , Getx , Third Party, Bloc ,
 shared preferences), architecture pattern MVVM .
 
+<hr>
