@@ -17,7 +17,7 @@
 
 <h3 align="left">Samples from my projects</h3>
 
-<h4 align="left">SOCIAL-MEDIA APP</h4>
+<h4 align="left"> SOCIAL-MEDIA APP</h4>
 
 - A Social Media application with chat to communication with others .
 
