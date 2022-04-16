@@ -17,9 +17,7 @@
 
 <h3 align="left">Samples from my projects</h3>
 
-
-SOCIAL-MEDIA APP
-
+<h4 align="left">SOCIAL-MEDIA APP</h4>
 
 o A Social Media application with chat to communication with others .
 
