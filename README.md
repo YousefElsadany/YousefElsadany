@@ -3,9 +3,9 @@
 
 - 💬 Ask me about **Flutter - Dart - GetX Eco system - Java - OOP - Firebase - RestApi **
 
-- 📫 Personal Email: **youssefahmedabdelaziz3@gmail.com**
+- 📫 Personal Email : **youssefahmedabdelaziz3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1V1kmf2CRnG75Cu7J7kyHUPc1ksE0iNJT/view?usp=sharing](https://drive.google.com/file/d/1V1kmf2CRnG75Cu7J7kyHUPc1ksE0iNJT/view?usp=sharing)
+- 📄 Cv : [https://drive.google.com/file/d/1V1kmf2CRnG75Cu7J7kyHUPc1ksE0iNJT/view?usp=sharing](https://drive.google.com/file/d/1V1kmf2CRnG75Cu7J7kyHUPc1ksE0iNJT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
