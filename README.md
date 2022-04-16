@@ -33,9 +33,18 @@ MVVM and I used API .
 
 <hr>
 
-<h4 align="left">NEWS-APP APP</h4>
+<h4 align="left">NEWS-APP</h4>
 
 - A news application to find out the latest news about sports, science and business .
 - In this application I have used the libraries (Getx, Third Party, Bloc , intl,
 Conditional Builder, dio, shared preferences, WebView flutter), architecture pattern
 MVVM .
+
+
+<hr>
+
+<h4 align="left">MISSION-APP</h4>
+
+- Application to do BMI Calculator and add a plan of tasks to achieve your goal .
+- In this application I have used the libraries (Getx, Third Party, Bloc , intl,
+Conditional Builder), architecture pattern MVVM and I used Sqlfite as Database .
