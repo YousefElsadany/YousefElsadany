@@ -1,7 +1,7 @@
 <h1 align="start">Hi 👋, I'm Youssef Ahmed</h1>
 <h3 align="start">A Software Engineer Specialize Mobile Apps ( Using Flutter )</h3>
 
-- 💬 Ask me about **Flutter - Dart - GetX Eco system - Java - OOP - Firebase - RestApi **
+- 💬 Ask me about **Flutter - Dart - GetX Eco system - Java - OOP - Firebase - RestApi**
 
 - 📫 Personal Email : **youssefahmedabdelaziz3@gmail.com**
 
