@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousefelsadany" alt="yousefelsadany" /></a> </p>
 
-- 💬 Ask me about **Flutter - Dart - GetX Eco system - Java - OOP - Firebase - RestApi**
+- 💬 Ask me about **Flutter - Dart - Cubit - Bloc Pattern - Clean Architecture - GetX Eco system - Java - OOP - Firebase - RestApi**
 
 - 📫 Personal Email : **youssefahmedabdelaziz3@gmail.com**
 
