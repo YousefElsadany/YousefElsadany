@@ -1,68 +1,130 @@
-<h1 align="start">Hi 👋, I'm Youssef Ahmed</h1>
-<h3 align="start">A Software Engineer Specialize Mobile Apps ( Using Flutter )</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefelsadany&label=Profile%20views&color=0e75b6&style=flat" alt="yousefelsadany" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0077B6&height=200&section=header&text=Youssef%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer&descAlignY=58&descSize=22&descColor=90E0EF" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousefelsadany" alt="yousefelsadany" /></a> </p>
+</div>
 
-- 💬 Ask me about **Flutter - Dart - Cubit - Bloc Pattern - Clean Architecture - GetX Eco system - Java - OOP - Firebase - RestApi**
+---
 
-- 📫 Personal Email : **youssefahmedabdelaziz3@gmail.com**
+<div align="center">
 
-- 📄 Cv : [https://drive.google.com/file/d/1V1kmf2CRnG75Cu7J7kyHUPc1ksE0iNJT/view?usp=sharing](https://drive.google.com/file/d/1V1kmf2CRnG75Cu7J7kyHUPc1ksE0iNJT/view?usp=sharing)
+### 👋 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/youssefelsadany/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/youssefelsadany/" height="30" width="40" /></a>
-</p>
+**Flutter Developer** with **3+ years** of experience building cross-platform mobile applications for Android & iOS.
+Passionate about clean architecture, smooth UX, and writing maintainable, scalable code.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+📍 Suez, Egypt &nbsp;|&nbsp; 📧 youssefahmedabdelaziz3@gmail.com &nbsp;|&nbsp; 🪖 Military Service: Exempted
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefelsadany&show_icons=true&locale=en&layout=compact" alt="yousefelsadany" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefelsadany/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YousefElsadany)
+[![CV](https://img.shields.io/badge/Download%20CV-00B4D8?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1BNL-7a9lLQdxJiZTEau9SsYNBHfykAEL/view?usp=sharing)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousefelsadany&show_icons=true&locale=en" alt="yousefelsadany" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousefelsadany&" alt="yousefelsadany" /></p>
+---
 
-<h3 align="left">Samples from my projects: </h3>
+## 🚀 Tech Stack
 
-<h4 align="left">SOCIAL-MEDIA APP</h4>
+<div align="center">
 
-- A Social Media application with chat to communication with others .
-- In this application I have used the libraries (Firebase , Getx , Third Party, Bloc ,
-shared preferences), architecture pattern MVVM .
+### 📱 Core
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-<hr>
+### 🧠 State Management
+![Bloc](https://img.shields.io/badge/Bloc%20%2F%20Cubit-6B4FBB?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-9C27B0?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-4CAF50?style=for-the-badge&logo=flutter&logoColor=white)
 
-<h4 align="left">TECH-SHOP APP</h4>
+### 🏗️ Architecture
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0077B6?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-00B4D8?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-0096C7?style=for-the-badge)
 
-- E-Commerce App for Electric Products using libraries (Getx, , State Management
-Bloc , Google Maps , Dio , Shared Preferences, Third Party), architecture pattern
-MVVM and I used API .
+### ☁️ Backend & Cloud
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6B35?style=for-the-badge)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo%20ERP-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
-<hr>
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google%20Maps%20SDK-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<h4 align="left">NEWS-APP</h4>
+</div>
 
-- A news application to find out the latest news about sports, science and business .
-- In this application I have used the libraries (Getx, Third Party, Bloc , intl,
-Conditional Builder, dio, shared preferences, WebView flutter), architecture pattern
-MVVM .
+---
 
-<hr>
+## 💼 Work Experience
 
-<h4 align="left">MISSION-APP</h4>
+### 🏢 Junior Flutter Developer — [MagdSoft](https://magdsoft.com) *(03/2024 – 04/2025 | Cairo)*
+- Built and maintained Flutter apps for **Android & iOS**
+- Integrated REST APIs with **Bloc** state management
+- Focused on UI implementation, bug fixing & performance optimization
+- Collaborated using **Agile / SCRUM** methodologies
 
-- Application to do BMI Calculator and add a plan of tasks to achieve your goal .
-- In this application I have used the libraries (Getx, Third Party, Bloc , intl,
-Conditional Builder), architecture pattern MVVM and I used Sqlfite as Database .
+### 🏢 Junior Flutter Developer — Smart Vision *(05/2022 – 03/2024 | Suez)*
+- Developed cross-platform apps using **Flutter & Dart**
+- Integrated **REST APIs** and **Firebase** services
+- Built responsive, reusable UI components with focus on UX
+- Contributed to UI/UX design decisions and independently designed major app interfaces
+- Managed sprints & tasks using **Jira**
 
-<hr>
+---
 
-<h4 align="left">YOUR-DOCTOR APP</h4>
+## 📦 Notable Projects
 
-- Application for patents, an application to request an appointment for an
-examination in doctors' clinics in various medical specialties.
-- In this application we used the libraries (Getx , URL launcher , intl , Third Party),
-architecture pattern MVVM and we used Firebase as Database .
+| Project | Description | Tech Highlights |
+|--------|-------------|-----------------|
+| **Pickhub** 🚗 | Transportation app with real-time tracking | Google Maps, Socket.IO, Firebase Notifications, Bloc |
+| **Tambe** 👗 | Fashion e-commerce from top local brands | Bloc, Firebase Remote Config, Crashlytics, Analytics |
+| **SihatukTuhumuna** 🏥 | Medical appointment & services booking app | Bloc, Firebase, Google Maps, Reve Chat |
+| **GrocSave** 🛒 | Supermarket delivery & sales app | Odoo ERP APIs, Bloc, MVVM, Flutter |
+| **SaveWSM** ⛽ | Fuel stock management system for gas stations | Flutter, MVVM, Bloc, Clean Code |
+
+---
+
+## 🎓 Education
+
+- 🎓 **Postgraduate Diploma in CS** — Cairo University *(2023 – Present)*
+- 🎓 **B.Sc. Management Information Systems** — Suez Institute *(2016 – 2020)*
+- 📱 **Mobile App Development Track** — ITI (3-Month Scholarship) *(2021)*
+
+---
+
+## 📜 Certifications
+
+- ✅ [Java Programming: Principles of Software Design](https://coursera.org/verify/VC6QCG69926M) — Duke University
+- ✅ [Object-Oriented Programming with Java](https://coursera.org/verify/L92N63ATPA4E) — Coursera
+- ✅ [Java Programming: Arrays, Lists & Structured Data](https://coursera.org/verify/26KUQGQVF6W6) — Duke University
+- ✅ [Java Programming: Solving Problems with Software](https://coursera.org/verify/HAFYG6UPBT75) — Duke University
+- ✅ [Programming Foundations with JS, HTML & CSS](https://coursera.org/verify/CSXFQKQJ6BAP) — Duke University
+- ✅ [Android Basics Nanodegree by Google](https://confirm.udacity.com/GU4D62S3) — Udacity
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yousefelsadany&show_icons=true&theme=tokyonight&locale=en&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefelsadany&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefelsadany&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=100&section=footer" />
+
+</div>
